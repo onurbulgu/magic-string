@@ -4,7 +4,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 import pytest
-import openpyxl
 from constants.magicStringDenemeleri import *
 
 class Test_Login:
